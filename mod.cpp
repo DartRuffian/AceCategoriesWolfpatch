@@ -1,4 +1,4 @@
-author = "Dart";
-name = "ACE Medical Category - Wolfpatch";
+author = "DartRuffian";
+name = "ACE Categories - Wolfpatch";
 overview = "";
 version = 1.0;
