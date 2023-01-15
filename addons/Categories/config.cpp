@@ -1,8 +1,8 @@
 class CfgPatches
 {
-    class Wolfpatch_Medical
+    class Wolfpatch
     {
-        name = "Wolfpatch_Medical";
+        name = "Wolfpatch";
         author = "DartRuffian";
         requiredVersion = 0.1;
         requiredAddons[] = {"aceAresenalCatagory"};
@@ -13,11 +13,11 @@ class CfgPatches
 
 class CfgFunctions
 {
-	class Wolfpatch_Medical
+	class Wolfpatch
 	{
 		class functions
 		{
-            file = "Medical\functions";
+            file = "Categories\functions";
 			class init
             {
                 postInit = 1;
